@@ -1,0 +1,11 @@
+{
+  "name": "check-env-return-val",
+  "version": "1.0.0",
+  "description": "check env and return checked env valued",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OhIAmFIne",
+  "license": "MIT"
+}
